@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a4b2e215f1947f4b83b0a3bfe1b78d9, type: 3}
+  m_Name: BasePrefabs
+  m_EditorClassIdentifier: 
+  content: {fileID: 6345219392080407458, guid: 96179ade778c5414884e6090bcee4aa0, type: 3}
+  openTileMaterial: {fileID: 2100000, guid: ca9dcca075ef97242a9618b506c8d733, type: 2}
+  closeTileMaterial: {fileID: 2100000, guid: 60f95e874e81a8c43bcf7361411ae25a, type: 2}
+  flagTileMaterial: {fileID: 2100000, guid: b6a67ac793ac090488c953ab3f6da6ca, type: 2}
+  openCellBlackColor: {r: 0.05660379, g: 0.05660379, b: 0.05660379, a: 1}
+  openCellWhiteColor: {r: 1, g: 1, b: 1, a: 1}
+  openTileGameOverColor: {r: 0.5294118, g: 0.20000002, b: 0.18039216, a: 1}
+  closeTileGameOverColor: {r: 0.8490566, g: 0.38157687, b: 0.35644355, a: 1}
+  flagTileGameOverColor: {r: 0.745283, g: 0.43468982, b: 0.41834283, a: 1}
+  backgroundGameOverColor: {r: 0.5283019, g: 0.19911177, b: 0.18191527, a: 1}
+  openTileCompleteColor: {r: 0.3930669, g: 0.6886792, b: 0.40167695, a: 1}
+  closeTileCompleteColor: {r: 0.69567615, g: 0.8235294, b: 0.5882353, a: 1}
+  flagTileCompleteColor: {r: 0.6026166, g: 0.6981132, b: 0.6026166, a: 1}
+  backgroundCompleteColor: {r: 0.3921569, g: 0.6901961, b: 0.40000004, a: 1}
+  tileCornerInner: {fileID: 21300000, guid: d598375bf0c00d147b58530112c7a36f, type: 3}
+  tileCornerOuter: {fileID: 21300000, guid: 615365c60ef1b2046a2957a75cf171c6, type: 3}
+  tileBorderHorizontal: {fileID: 21300000, guid: 6ba9061567211e8479414938dd11b8c4, type: 3}
+  tileBorderVertical: {fileID: 21300000, guid: d898cb1bae9e1644b804b5b4a4d63e96, type: 3}
+  tileFull: {fileID: 21300000, guid: b24b2a3a59bafe64282c2eb8f453a30e, type: 3}
+  tileNone: {fileID: 11400000, guid: e0aae96e4fb33a6458f8d316ff947278, type: 2}
+  whiteFontAsset: {fileID: 11400000, guid: f245a6f892d6bb44c9e6e513f161338e, type: 2}
+  blackFontAsset: {fileID: 11400000, guid: 0bc2b46048cbebf4abee4b44dc00e93a, type: 2}

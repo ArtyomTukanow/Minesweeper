@@ -1,0 +1,30 @@
+{
+    "name": "NewAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:ab9b58ffcf931e24ebb0749cfd1ec5b6",
+        "GUID:4139e191aa32f459e9eb2e331225ad7e",
+        "GUID:b649415412a3d4e8a83df256b07478bb",
+        "GUID:b4318b6f3695442c4983c360248781db",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf",
+        "GUID:3de88c88fbbb8f944b9210d496af9762"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}
